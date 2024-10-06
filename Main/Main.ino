@@ -7,7 +7,8 @@
 //SCL → GPIO 18 
 //SDA → GPIO 23
 
-//GitHub
+//GitHub 
+
 //Bibliotecas usadas 
 #include <Adafruit_GFX.h>    // Biblioteca Gráfica GFX
 #include <Adafruit_ST7735.h> // Biblioteca para o display ST7735
